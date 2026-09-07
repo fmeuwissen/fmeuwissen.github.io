@@ -22,9 +22,10 @@ p { margin: 0 0 8px; }
 section { margin-top: 26px; }
 h2 { margin: 0 0 14px; font-size: 24px; line-height: 1.3; }
 .empty { color: #444; }
-.publication-list { margin: 0; padding-left: 26px; }
-.publication-list li { margin-bottom: 9px; padding-left: 2px; }
-.publication-list a { font-weight: 700; }
+.publication { margin: 0 0 22px; }
+.publication h3 { margin: 0 0 7px; font-size: 18px; line-height: 1.45; }
+.publication p { margin-bottom: 7px; }
+.resource-links { display: flex; gap: 18px; }
 footer { margin-top: 54px; font-size: 14px; color: #555; }
 @media (max-width: 620px) {
   body { font-size: 17px; }
