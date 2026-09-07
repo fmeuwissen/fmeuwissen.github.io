@@ -36,7 +36,18 @@
 
     <section>
       <h2>In Progress</h2>
-      <p class="empty">Research projects and ongoing collaborations.</p>
+      <article class="publication">
+        <p class="publication-line">Market- versus Tax-Based Information: Effects on Gas-Bill Expectations and Demand for Residential Energy Efficiency · (with Gilles Grandjean) · <button class="abstract-toggle" type="button" aria-expanded="false" aria-controls="abstract-chapter-1">Abstract</button></p>
+        <div class="abstract-text" id="abstract-chapter-1" hidden>
+          <p>Do households react more strongly to a gas-bill increase when it is attributed to a tax rather than to market forces? We address this question through a randomized information experiment with a representative sample of 1,500 Belgian adults. Participants will be assigned to a control group or to one of two treatments communicating the same expected increase in residential gas bills in 2028, attributed either to market forces or to the introduction of the European Emissions Trading System 2 (ETS 2). First, we will estimate whether tax-based information has stronger effects on longer-term gas-bill expectations than market-based information and examine whether responses vary with education and prior uncertainty. Second, we will investigate whether experimentally induced variation in long-term gas-bill expectations affects preferences for energy efficiency in housing, beliefs about aggregate renovation activity, and individual renovation intentions. Finally, reduced-form estimates will capture the overall effects of the information treatments, including effects potentially operating through framing or salience.</p>
+        </div>
+      </article>
+      <article class="publication">
+        <p class="publication-line">Cheaper or Less Exposed to Price Spikes: What Matters Most for Heat-Pump Adoption? · <button class="abstract-toggle" type="button" aria-expanded="false" aria-controls="abstract-chapter-2">Abstract</button></p>
+        <div class="abstract-text" id="abstract-chapter-2" hidden>
+          <p>This study examines whether households’ willingness to adopt an air-to-water heat pump is shaped more by its expected operating-cost advantage or by its lower exposure to energy-price shocks, relative to a conventional gas boiler. A randomized information experiment separately varies information about the expected effect of ETS 2 on future gas-heating costs and about the declining transmission of gas-price shocks to electricity prices. Beliefs are elicited about the distribution of future monthly heating costs and about the probability of unusually high monthly costs for both technologies. The experiment enables estimation of the causal effects of relative expected heating costs and relative exposure to high heating costs on heat-pump adoption intentions, as well as comparison of the importance of these two channels. Households are expected to be more willing to adopt a heat pump when they perceive it as both cheaper to operate and less exposed to large upward cost shocks than gas heating.</p>
+        </div>
+      </article>
     </section>
 
     <section>
@@ -58,5 +69,15 @@
 
     <footer>© 2026 François Meuwissen. Last updated: September 2026.</footer>
   </main>
+  <script>
+    document.querySelectorAll('.abstract-toggle').forEach((button) => {
+      button.addEventListener('click', () => {
+        const abstract = document.getElementById(button.getAttribute('aria-controls'));
+        const isOpen = button.getAttribute('aria-expanded') === 'true';
+        button.setAttribute('aria-expanded', String(!isOpen));
+        abstract.hidden = isOpen;
+      });
+    });
+  </script>
 </body>
 </html>
