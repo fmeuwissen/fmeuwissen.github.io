@@ -4,63 +4,25 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Academic website of François Meuwissen, PhD Student at UCLouvain Saint-Louis Bruxelles.">
-  <title>François Meuwissen — PhD Student</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <title>François Meuwissen</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="page-shell">
-    <header class="topbar">
-      <a class="wordmark" href="#top" aria-label="Back to top">FM<span>.</span></a>
-      <nav aria-label="Primary navigation">
-        <a href="#research">Research</a>
-        <a href="#work">Work</a>
-        <a href="#contact">Contact</a>
-      </nav>
+  <main class="container">
+    <header class="profile">
+      <img class="portrait" src="assets/francois-meuwissen.png" alt="Portrait of François Meuwissen">
+      <h1>François Meuwissen</h1>
+      <p class="role">PhD Student<br>UCLouvain Saint-Louis Bruxelles</p>
+      <p class="links"><a href="mailto:francois.meuwissen@uclouvain.be">francois.meuwissen@uclouvain.be</a><span aria-hidden="true">·</span><a href="https://www.linkedin.com/in/fran%C3%A7ois-meuwissen-879b34163/" target="_blank" rel="noreferrer">LinkedIn</a><span aria-hidden="true">·</span><a href="https://github.com/fmeuwissen" target="_blank" rel="noreferrer">GitHub</a></p>
     </header>
-    <main id="top">
-      <section class="hero" aria-labelledby="intro-title">
-        <div class="hero-copy">
-          <p class="eyebrow">PhD Student · Brussels</p>
-          <h1 id="intro-title">François<br><em>Meuwissen</em></h1>
-          <p class="intro">I am a PhD Student at <a href="https://uclouvain.be/en/sites/saint-louis-brussels" target="_blank" rel="noreferrer">UCLouvain Saint-Louis Bruxelles</a>. My research fields are Environmental Economics and Behavioral Economics.</p>
-          <div class="hero-links" id="contact">
-            <a class="button-link" href="mailto:francois.meuwissen@uclouvain.be">Get in touch <span>↗</span></a>
-            <a class="text-link" href="https://github.com/fmeuwissen" target="_blank" rel="noreferrer">GitHub ↗</a>
-            <a class="text-link" href="https://www.linkedin.com/in/fran%C3%A7ois-meuwissen-879b34163/" target="_blank" rel="noreferrer">LinkedIn ↗</a>
-          </div>
-        </div>
-        <div class="portrait-wrap">
-          <div class="portrait-ring"></div>
-          <img src="assets/francois-meuwissen.png" alt="Portrait of François Meuwissen">
-          <span class="portrait-note">Environmental<br>and behavioral<br>economics</span>
-        </div>
-      </section>
-      <section class="research-section" id="research" aria-labelledby="research-title">
-        <div class="section-label"><span>01</span><span>Research</span></div>
-        <div class="research-grid">
-          <div><h2 id="research-title">Understanding decisions<br>in a changing climate.</h2></div>
-          <div class="research-copy">
-            <p>My work studies how people respond to environmental challenges, and how public policy can support more sustainable choices.</p>
-            <div class="topic-list" aria-label="Research fields">
-              <span>Environmental Economics</span><span>Behavioral Economics</span>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section class="work-section" id="work" aria-labelledby="work-title">
-        <div class="section-label"><span>02</span><span>Selected work</span></div>
-        <h2 class="sr-only" id="work-title">Selected work</h2>
-        <div class="work-list">
-          <article class="work-item"><div class="work-index">01</div><div><h3>In Progress</h3><p>Research projects and ongoing collaborations.</p></div><span class="work-arrow">↗</span></article>
-          <article class="work-item"><div class="work-index">02</div><div><h3>Working Papers</h3><p>Drafts and papers currently under development.</p></div><span class="work-arrow">↗</span></article>
-          <article class="work-item"><div class="work-index">03</div><div><h3>Policy</h3><p>Research with a view toward practical public action.</p></div><span class="work-arrow">↗</span></article>
-        </div>
-      </section>
-    </main>
-    <footer><span>© François Meuwissen</span><span>Last updated · 2026</span></footer>
-  </div>
+    <section class="intro"><p>I am a PhD Student at <a href="https://uclouvain.be/en/sites/saint-louis-brussels" target="_blank" rel="noreferrer">UCLouvain Saint-Louis Bruxelles</a>. My research fields are Environmental Economics and Behavioral Economics.</p></section>
+    <section aria-labelledby="work-title">
+      <h2 id="work-title">Research</h2>
+      <div class="entry"><h3>In Progress</h3><p>Research projects and ongoing collaborations.</p></div>
+      <div class="entry"><h3>Working Papers</h3><p>Drafts and papers currently under development.</p></div>
+      <div class="entry"><h3>Policy</h3><p>Research with a view toward practical public action.</p></div>
+    </section>
+    <footer>© François Meuwissen · Last updated 2026</footer>
+  </main>
 </body>
 </html>
