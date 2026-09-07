@@ -14,8 +14,9 @@ h1 { margin: 0 0 10px; font-size: 34px; line-height: 1.25; font-weight: 700; let
 .social-links a { display: grid; place-items: center; width: 38px; height: 38px; border: 1px solid var(--border); border-radius: 8px; background: #fff; }
 .social-links a:hover { background: #f7f7f7; text-decoration: none; }
 .social-links svg { width: 21px; height: 21px; fill: currentColor; }
-.social-links a:first-child { color: #171717; }
-.social-links a:last-child { color: #0a66c2; }
+.social-links .github { color: #171717; }
+.social-links .scholar { color: #4285f4; }
+.social-links .linkedin { color: #0a66c2; }
 .about { margin-bottom: 28px; }
 p { margin: 0 0 8px; }
 section { margin-top: 26px; }
