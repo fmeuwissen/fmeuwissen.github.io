@@ -25,6 +25,7 @@ h2 { margin: 0 0 14px; font-size: 24px; line-height: 1.3; }
 .publication { margin: 0 0 18px; }
 .publication-line { margin: 0; line-height: 1.75; }
 .publication-line a { font-weight: 700; }
+.publication-line .coauthor-link { font-weight: 400; }
 .abstract-toggle { margin: 0; padding: 0; border: 0; background: none; color: var(--link); font: inherit; font-weight: 700; cursor: pointer; }
 .abstract-toggle:hover { text-decoration: underline; }
 .abstract-toggle:focus-visible { outline: 2px solid var(--link); outline-offset: 3px; }
