@@ -22,7 +22,8 @@ p { margin: 0 0 8px; }
 section { margin-top: 26px; }
 h2 { margin: 0 0 14px; font-size: 24px; line-height: 1.3; }
 .empty { color: #444; }
-.publication { margin: 0 0 18px; }
+.publication { position: relative; margin: 0 0 18px; padding-left: 18px; }
+.publication::before { position: absolute; top: 0; left: 0; content: "•"; }
 .publication-line { margin: 0; line-height: 1.75; }
 .publication-line a { font-weight: 700; }
 .publication-line .coauthor-link { font-weight: 400; }
