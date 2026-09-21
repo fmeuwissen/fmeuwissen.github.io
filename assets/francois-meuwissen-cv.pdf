@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
 >>
 endobj
 2 0 obj
@@ -12,26 +12,24 @@ endobj
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (mailto:francois.meuwissen@uclouvain.be)
->> /Border [ 0 0 0 ] /Rect [ 84 757.8898 241.1718 770.0898 ] /Subtype /Link /Type /Annot
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 5 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://fmeuwissen.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 95 741.8898 223.6934 754.0898 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 263.933 701 388.7806 713.7 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/Annots [ 4 0 R 5 0 R ] /Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Annots [ 5 0 R ] /Contents 10 0 R /MediaBox [ 0 0 612 792 ] /Parent 9 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -46,7 +44,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Author (Fran\347ois Meuwissen) /CreationDate (D:20260921141150+02'00') /Creator (anonymous) /Keywords () /ModDate (D:20260921141150+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (Fran\347ois Meuwissen) /CreationDate (D:20260921142058+02'00') /Creator (anonymous) /Keywords () /ModDate (D:20260921142058+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (unspecified) /Title (Fran\347ois Meuwissen - Curriculum Vitae) /Trapped /False
 >>
 endobj
@@ -57,28 +55,28 @@ endobj
 endobj
 10 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 706
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 551
 >>
 stream
-Gatn%9lHLd&;KZQ'm"2dAA'P+bE>e\9jACt7"usMjFSi#<.%eq2#[5U@tV%#X.gd`<X`HpkFEIp'Ys99lEd)_gpo,P=$RqeDEsnOJnp#':?je>;TB)^is=sQd5bI7H+8>l3UY/uBL5-SkQ9NB52>=-qPI.BM[K4l<:<[]"R/Eq^Opm`W_!PV%NGV6iIX`f$(?\e`OG??&op>j!3&9rPl]=;/hju#&G04:,<bkN&5!j.T.3(NWZPQ3U3//u45*9hCToFc1)SW8cH\keA[s=/VpeB+%u!lkXk"oCVL;knZ!(3h[0ep?\ld9iWM1Q10n,^!gFGmpG2KsG9./AW6*^u@+NcPQ9R'&KE@+sg\6N*n$"=>"-Y],8Kc`3KJ4Yq0_'TqMe+C7G+$6?\%k\G@SHbTKcOAEO>[D$"r*LObd1LYqfnY"Y8"RjBGpQh%]=dtX`,SUY_p`c=nuh4iBpM/9n[l)`A(`\&W,<%(6Q4:,*n)g$dVs/R3#B:)['>bY_\kUg^0$EW>0Fm(;RPCRD/:b$dRgG.C96P-(s=oj<lWR1L*L3^7rDc\+Yt.2OBobQ(ll]pd_fm2@pq.?_)./)BA!ApIXNtQQFWNR_kAOI6T;9TTF!hK3tIWo4!RN9L3\":VIAS?6$HN1I4":cM)b@40q)I*7RGWCU/^6Ii]mGR^^\Mf4HKCiXqGu99!A+(Kukuq.eIK~>endstream
+GatU0bAQ&g&A7ljp=KQu/NtKVe>@A7ER=buRnGB@9Zq5tb)iPKTAMMo)F[O,8H](t,jikcGD;iRiM(=q>(?tio1KFTJ_gDB7"AU[;U=hIY.gM'=K8SJ0,aBtG%\/6`.2De*o!&)lCfefe_#U&oRVls7>aE'a@-<EKm/lsnMa_6SK$LV*Uhc;=T9H70@4?%O9j0`AgEG;(b*D0pl[&N;'8O,bLX18!B[*VOFsoi3BiI'duD,%o42>Y&2Hut/Ht2QO+c,.1Upg/n8_5!(fPEPEdiVqLN"(GoD.f"T%#CZ`sm%Er9_o9H<+u^Jh#3M<b;Uk*k(2ZIr,_4[N!u]9[D*mVB.NJTTl7RE$Cl`Or,+uM109]aop<jn2P'R=:rr0HsS*0@?"LdJ5;Q-Mgi=J9k/s"\CuE5r48sjhmKU*hTdT*fi"E/^\bT`^7I.p=XJWJ3_[b.0U[TB\hj;.!9:QX'gj(7*;O`U/4n?g\XeI#MPO$P;sj+ZYe33QhH=2K\UC[!PtBs2eht_P,ecB@!rj5(*r(%<[J^mNAq'djY<+i~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
 0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000505 00000 n 
-0000000680 00000 n 
-0000000908 00000 n 
-0000000976 00000 n 
-0000001281 00000 n 
-0000001340 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000327 00000 n 
+0000000436 00000 n 
+0000000608 00000 n 
+0000000820 00000 n 
+0000000888 00000 n 
+0000001193 00000 n 
+0000001252 00000 n 
 trailer
 <<
 /ID 
-[<f05702d58c6d0346f7020e1f88e1c127><f05702d58c6d0346f7020e1f88e1c127>]
+[<f6225f28f32dbdbc65aa8f3e804d6b53><f6225f28f32dbdbc65aa8f3e804d6b53>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 8 0 R
@@ -86,5 +84,5 @@ trailer
 /Size 11
 >>
 startxref
-2137
+1894
 %%EOF
